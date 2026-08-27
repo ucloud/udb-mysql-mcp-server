@@ -1,0 +1,10 @@
+/udb-mysql-mcp-server
+/bin/
+__pycache__/
+*.pyc
+.playwright-mcp/
+.playwright-cli/
+.idea/
+.worktrees/
+.env
+.mcp.json
